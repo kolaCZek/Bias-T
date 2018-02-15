@@ -1,6 +1,6 @@
 # Bias-T
 
-![Bias-T](./bias_t.jpg)
+![Bias-T](./bias-t.jpg)
 
 [OSHPark Project](https://oshpark.com/shared_projects/qdVj57Nw)
 
